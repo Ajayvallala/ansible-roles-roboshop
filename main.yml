@@ -1,0 +1,5 @@
+- name: Configuring {{ module }}
+  hosts: "{{ module }}"
+  become: true
+  roles:
+  - "{{ module }}"
