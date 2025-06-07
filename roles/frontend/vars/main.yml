@@ -1,3 +1,4 @@
 CATALOGUE_HOST: catalogue.vallalas.store
 USER_HOST: user.vallalas.store
 CART_HOST: cart.vallalas.store
+SHIPPING_HOST: shipping.vallalas.store
